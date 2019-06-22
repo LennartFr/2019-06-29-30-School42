@@ -28,6 +28,8 @@ Save API key for later use
 
 # Classify an image
 
+curl -u "apikey:{apikey}" "https://gateway.watsonplatform.net/visual-recognition/api/v3/classify?url=https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/640px-IBM_VGA_90X8941_on_PS55.jpg&version=2018-03-19"
+
 <img src="classify_image.png"     height="200" width="600">
 
 1. curl -u apikey:XXXXXXXX
