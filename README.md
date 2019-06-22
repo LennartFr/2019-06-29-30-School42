@@ -29,7 +29,8 @@ Save API key for later use
 
 # Classify an image
 
-https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#classify
+1. curl -u apikey:XXXXXXXX
+1. https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#classify
 
 
 
