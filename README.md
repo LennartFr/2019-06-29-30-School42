@@ -135,6 +135,9 @@ curl -u apikey:XXXXXXXX  "https://gateway.watsonplatform.net/visual-recognition/
 </code>
 
 # Custom image classifier with Watson Visual Recognition 
+
+  https://youtu.be/vnWblT50w1Y
+
 # Deploying the custom visual model on IBM Cloud and then use in your applications 
 # Integrating other Watson cognitive services in your applications
 
