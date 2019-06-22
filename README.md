@@ -1,8 +1,10 @@
 # 2019-06-29-30-School42
-Image recognition
+# Image recognition
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
 
+
+[Cloud Resources](https://cloud.ibm.com/resources)
 
 [Watson Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
 
