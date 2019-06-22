@@ -16,8 +16,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [Your cloud Resources in the IBM Cloud, including Watson Visual Recognition. Click on your Visual Recognition Recognition Service](https://cloud.ibm.com/resources)
 
 <img src="Visual_Recognition.png" height="400" width="600">
-
-<img src="classify_image.png"    height "200" "width="600">
+<img src="classify_image.png"     height "200" width="600">
 
 Save API key for later use
 
