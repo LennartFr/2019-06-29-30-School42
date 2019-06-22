@@ -31,9 +31,7 @@ Save API key for later use
 <img src="classify_image.png"  height "200" "width="600">
 
 1. curl -u apikey:XXXXXXXX
-1. https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#classify
-
- 
+1. https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#classify 
 
 To classify an image we need the following data:
 
