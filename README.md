@@ -18,8 +18,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [Your cloud Resources in the IBM Cloud, including Watson Visual Recognition](https://cloud.ibm.com/resources)
    Click on your "Visual Recognition Service"
 1. Click on "Manage" in the upper left hand corner
-1. And save your API Key shown in the picture below. Please note: before you save the API key, click on the eye in 
-   the picture to make it visible
+1. And save your API Key shown in the picture below. Please note: before you save the API key, click on the eye 
+   to the left of "Show Credentials in the picture to make it visible. 
+   
 
 <img src="Visual_Recognition.png" height="400" width="600">
 
