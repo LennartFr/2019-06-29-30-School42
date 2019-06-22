@@ -17,6 +17,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="Visual_Recognition.png" height="400" width="600">
 
+<img src="classify_image.png"    height "200" "width="600">
+
 Save API key for later use
 
 1. [Click on Visual Recognition Service](https://cloud.ibm.com/apidocs/visual-recognition?code=try)
