@@ -5,11 +5,12 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
 
-[IBM AI resources in IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
+[IBM AI resources in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
+
+[Watson Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
 
 [Cloud Resources](https://cloud.ibm.com/resources)
 
-[Watson Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
 
 [Visual Recognition API Docs](https://cloud.ibm.com/apidocs/visual-recognition)
 
