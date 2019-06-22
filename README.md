@@ -29,6 +29,10 @@ Save API key for later use
 
 # Classify an image
 
+https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#classify
+
+
+
 To classify an image we need the following data:
 
 1. Our API key: covered as:XXXXXXXX
