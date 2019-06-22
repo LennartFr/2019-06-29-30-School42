@@ -28,6 +28,8 @@ Save API key for later use
 
 # Classify an image
 
+<img classify-image.png height "200", "width="600">
+
 1. curl -u apikey:XXXXXXXX
 1. https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#classify
 
