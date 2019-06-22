@@ -17,6 +17,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
    Click on "Create" in bottom right corner to create an instance of the Watson Visual Recognition in the IBM Cloud
 1. [Your cloud Resources in the IBM Cloud, including Watson Visual Recognition](https://cloud.ibm.com/resources)
    Click on your "Visual Recognition Service"
+1. Click on "Manage" in the upper left hand corner
+1. And save your API Key shown in the picture below.
 
 <img src="Visual_Recognition.png" height="400" width="600">
 
