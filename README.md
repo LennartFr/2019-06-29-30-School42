@@ -28,7 +28,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [Try it out](https://cloud.ibm.com/apidocs/visual-recognition?code=try)
 1. [Click on Visual Recognition(https://cloud.ibm.com/services/watson-vision-combined/)
 
-[This tutorial guides you through how to use some built-in models in IBM Watson™ Visual Recognition to classify an image and then detect faces in an image.](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial)
+[This tutorial guides you through how to use some built-in models in IBM Watson Visual Recognition to classify an image and then detect faces in an image.](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial)
 
 # Classify an image
 
