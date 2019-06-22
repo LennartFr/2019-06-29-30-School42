@@ -1,5 +1,5 @@
 # 2019-06-29-30-School-42
-# Image recognition
+
 ## Introduction
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
 
