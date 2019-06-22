@@ -6,6 +6,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 [Watson Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
 
+[Visual Recognition API Docs](https://cloud.ibm.com/apidocs/visual-recognition)
+
 [Visual Recognition](https://cloud.ibm.com/services/watson-vision-combined/)
 
 
