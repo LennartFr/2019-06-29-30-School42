@@ -16,7 +16,6 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [Your cloud Resources in the IBM Cloud, including Watson Visual Recognition. Click on your Visual Recognition Recognition Service](https://cloud.ibm.com/resources)
 
 <img src="Visual_Recognition.png" height="400" width="600">
-<img src="classify_image.png"     height "200" width="600">
 
 Save API key for later use
 
@@ -29,7 +28,7 @@ Save API key for later use
 
 # Classify an image
 
-<img src="classify_image.png"    height "200" "width="600">
+<img src="classify_image.png"     height "200" width="600">
 
 1. curl -u apikey:XXXXXXXX
 1. https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#classify 
