@@ -14,6 +14,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [Watson Visual Recognition in the IBM Cloud](https://cloud.ibm.com/catalog/services/visual-recognition)
 1. Create an instance of the Watson Visual Recognition in the IBM Cloud
 1. [Your cloud Resources in the IBM Cloud, including Watson Visual Recognition](https://cloud.ibm.com/resources)
+1. [Click on Visual Recognition Service](https://cloud.ibm.com/apidocs/visual-recognition?code=try)
 1. [Visual Recognition API Docs](https://cloud.ibm.com/apidocs/visual-recognition)
 1. [Visual Recognition](https://cloud.ibm.com/services/watson-vision-combined/)
 1. [Try it out](https://cloud.ibm.com/apidocs/visual-recognition?code=try)
