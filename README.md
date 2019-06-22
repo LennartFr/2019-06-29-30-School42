@@ -24,7 +24,6 @@ Save API key for later use
 1. [Visual Recognition](https://cloud.ibm.com/services/watson-vision-combined/)
 1. [Try it out](https://cloud.ibm.com/apidocs/visual-recognition?code=try)
 
-
 [This tutorial guides you through how to use some built-in models in IBM Watson™ Visual Recognition to classify an image and then detect faces in an image.](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial)
 
 # Classify an image
