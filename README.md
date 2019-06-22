@@ -3,11 +3,9 @@
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
 
-[IBM Cloud Catalog](https://cloud.ibm.com/catalog)
-
-[IBM AI resources in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
-
-[Watson Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
+1. [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
+1. [IBM AI resources in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
+1. [Watson Visual Recognition in the IBM Cloud](https://cloud.ibm.com/catalog/services/visual-recognition)
 
 [Cloud Resources](https://cloud.ibm.com/resources)
 
