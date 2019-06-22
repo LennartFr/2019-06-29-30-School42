@@ -8,7 +8,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. integrating other Watson cognitive services in your applications.
 
 <hr size="50" color ="blue">
-
+ 
 ## Step by Step
 
 1. [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
