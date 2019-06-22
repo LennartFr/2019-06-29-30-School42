@@ -39,6 +39,8 @@ curl -u apikey:XXXXXXXX  "https://gateway.watsonplatform.net/visual-recognition/
 
 ## output:
 
+<code>
+
 {
     "images": [
         {
@@ -113,6 +115,8 @@ curl -u apikey:XXXXXXXX  "https://gateway.watsonplatform.net/visual-recognition/
     "images_processed": 1,
     "custom_classes": 0
 }
+
+</code>
 
 
 
