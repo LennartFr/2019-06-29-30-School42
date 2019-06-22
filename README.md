@@ -9,7 +9,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <hr size="50" color ="blue">
  
-## Step by Step
+#Step by Step Introduction to Visual Recognition in the IBM Cloud
 
 1. [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
 1. [IBM AI resources in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
@@ -133,6 +133,11 @@ curl -u apikey:XXXXXXXX  "https://gateway.watsonplatform.net/visual-recognition/
 }
 
 </code>
+
+# Custom image classifier with Watson Visual Recognition 
+# Deploying the custom visual model on IBM Cloud and then use in your applications 
+# Integrating other Watson cognitive services in your applications
+
 
 
 
