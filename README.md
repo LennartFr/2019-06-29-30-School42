@@ -2,6 +2,7 @@
 
 # URL: [https://bit.ly/2RsMqpk](https://bit.ly/2RsMqpk)
 
+Whitelisting:(https://cloud.ibm.com/registration/whitelist)
 
 ## Introduction
 
