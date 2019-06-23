@@ -11,7 +11,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
  
 ## [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
 
-<img src"models.png">
+<img src="models.png">
 
 ## Step by Step Introduction to Visual Recognition in the IBM Cloud
 
