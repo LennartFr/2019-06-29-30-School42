@@ -2,7 +2,7 @@
 
 # URL: [https://bit.ly/2RsMqpk](https://bit.ly/2RsMqpk)
 
-# IBM Cloud signup link: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
+# Call for Code signup link: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
 
 [Whitelisting:](https://cloud.ibm.com/registration/whitelist)
 
