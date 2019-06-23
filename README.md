@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Call for code challende 2019](https://callforcode.org/challenge/)
+[Call for code challenge 2019](https://callforcode.org/challenge/)
 
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
