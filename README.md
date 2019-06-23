@@ -3,19 +3,19 @@
 ## Introduction
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
 
-1. custom image classifier with Watson Visual Recognition 
-1. deploying the custom visual model on IBM Cloud and then use in your applications 
-1. integrating other Watson cognitive services in your applications.
+custom image classifier with Watson Visual Recognition 
+
+deploying the custom visual model on IBM Cloud and then use in your applications 
+
+integrating other Watson cognitive services in your applications.
 
 
 ### IBM Code Patterns
 
+1. [A beginner’s guide to setting up a visual recognition service](https://developer.ibm.com/articles/a-beginners-guide-to-set-up-a-visual-recognition-service/)
 1. [Identify Cities from Space](https://developer.ibm.com/patterns/identify-cities-from-space-using-watson-visual-recognition/)
 1.[Classify Vehicle Damage Images](https://developer.ibm.com/patterns/classify-vehicle-damage-images/)
 1.[Optimize your visual recognition classification](https://developer.ibm.com/patterns/optimize-visual-recognition-classification/)
-
-
-[A beginner’s guide to setting up a visual recognition service](https://developer.ibm.com/articles/a-beginners-guide-to-set-up-a-visual-recognition-service/)
 
 <hr size="50" color ="blue">
  
