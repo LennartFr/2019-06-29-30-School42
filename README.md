@@ -13,15 +13,6 @@ deploying the custom visual model on IBM Cloud and then use in your applications
 
 integrating other Watson cognitive services in your applications.
 
-
-### IBM Code Patterns
-
-1. [A beginner’s guide to setting up a visual recognition service](https://developer.ibm.com/articles/a-beginners-guide-to-set-up-a-visual-recognition-service/)
-1. [Identify Cities from Space](https://developer.ibm.com/patterns/identify-cities-from-space-using-watson-visual-recognition/)
-1. [Classify Vehicle Damage Images](https://developer.ibm.com/patterns/classify-vehicle-damage-images/)
-1. [Optimize your visual recognition classification](https://developer.ibm.com/patterns/optimize-visual-recognition-classification/)
-1. [Create a real-time object detection app using Watson Machine Learning](https://developer.ibm.com/patterns/create-a-real-time-object-detection-app-using-watson-machine-learning/)
-
 <hr size="50" color ="blue">
  
 ## [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
@@ -33,7 +24,6 @@ integrating other Watson cognitive services in your applications.
 [Creating Visual Recognition custom models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html)
 
 [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
-
 
 ## Step by Step Introduction to Visual Recognition in the IBM Cloud
 
@@ -169,6 +159,13 @@ curl -u apikey:XXXXXXXX  "https://gateway.watsonplatform.net/visual-recognition/
 # Deploying the custom visual model on IBM Cloud and then use in your applications 
 # Integrating other Watson cognitive services in your applications
 
+### IBM Code Patterns
+
+1. [A beginner’s guide to setting up a visual recognition service](https://developer.ibm.com/articles/a-beginners-guide-to-set-up-a-visual-recognition-service/)
+1. [Identify Cities from Space](https://developer.ibm.com/patterns/identify-cities-from-space-using-watson-visual-recognition/)
+1. [Classify Vehicle Damage Images](https://developer.ibm.com/patterns/classify-vehicle-damage-images/)
+1. [Optimize your visual recognition classification](https://developer.ibm.com/patterns/optimize-visual-recognition-classification/)
+1. [Create a real-time object detection app using Watson Machine Learning](https://developer.ibm.com/patterns/create-a-real-time-object-detection-app-using-watson-machine-learning/)
 
 
 
