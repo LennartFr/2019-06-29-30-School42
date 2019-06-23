@@ -17,7 +17,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 [Creating Visual Recognition custom models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html)
 
-
+[](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
 
 
 ## Step by Step Introduction to Visual Recognition in the IBM Cloud
