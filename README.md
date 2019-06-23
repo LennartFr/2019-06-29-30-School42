@@ -7,11 +7,11 @@
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
 
-custom image classifier with Watson Visual Recognition 
+1. custom image classifier with Watson Visual Recognition 
 
-deploying the custom visual model on IBM Cloud and then use in your applications 
+1. deploying the custom visual model on IBM Cloud and then use in your applications 
 
-integrating other Watson cognitive services in your applications.
+1. integrating other Watson cognitive services in your applications.
 
 <hr size="50" color ="blue">
  
