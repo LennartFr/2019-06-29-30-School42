@@ -7,6 +7,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. deploying the custom visual model on IBM Cloud and then use in your applications 
 1. integrating other Watson cognitive services in your applications.
 
+
+[A beginner’s guide to setting up a visual recognition service](https://developer.ibm.com/articles/a-beginners-guide-to-set-up-a-visual-recognition-service/)
+
 <hr size="50" color ="blue">
  
 ## [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
