@@ -13,12 +13,9 @@ integrating other Watson cognitive services in your applications.
 ### IBM Code Patterns
 
 1. [A beginner’s guide to setting up a visual recognition service](https://developer.ibm.com/articles/a-beginners-guide-to-set-up-a-visual-recognition-service/)
-
 1. [Identify Cities from Space](https://developer.ibm.com/patterns/identify-cities-from-space-using-watson-visual-recognition/)
-
-1.[Classify Vehicle Damage Images](https://developer.ibm.com/patterns/classify-vehicle-damage-images/)
-
-1.[Optimize your visual recognition classification](https://developer.ibm.com/patterns/optimize-visual-recognition-classification/)
+1. [Classify Vehicle Damage Images](https://developer.ibm.com/patterns/classify-vehicle-damage-images/)
+1. [Optimize your visual recognition classification](https://developer.ibm.com/patterns/optimize-visual-recognition-classification/)
 
 <hr size="50" color ="blue">
  
