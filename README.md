@@ -68,6 +68,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 # Integrating other Watson cognitive services in your applications
 
+<img src="default.custommodel.png">
+
 1. [All AI services in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
