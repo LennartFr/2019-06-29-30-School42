@@ -66,9 +66,11 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 [YouTube: IBM Watson Studio: Get Started With Visual Recognition](https://www.youtube.com/watch?v=o8xxZcmuc2Q)
 
+<img src="default.custommodel.png">
+
+
 # Integrating other Watson cognitive services in your applications
 
-<img src="default.custommodel.png">
 
 1. [All AI services in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
