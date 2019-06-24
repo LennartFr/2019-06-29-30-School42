@@ -51,7 +51,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
     examples of how to invoke the Visual Recognition Service with Curl, Go, Java, Node, Python Ruby and Swift.
 
 1. [This getting started tutorial guides you through how to use some built-in models in IBM Watson Visual Recognition to classify an image and then detect faces in an image.](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial)
- 
+
+1. [Visua Recognition Getting Started Tutorial ](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#getting-started-tutorial)
+
 # Create Visual Recognition Custom Model
    
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
