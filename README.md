@@ -20,7 +20,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. integrating other Watson cognitive services in your applications.
 
 <hr size="50" color ="blue">
- 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
 ## [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
 
 ## [https://cloud.ibm.com/developer/watson/starter-kits](https://cloud.ibm.com/developer/watson/starter-kits)
