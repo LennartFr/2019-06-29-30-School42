@@ -35,7 +35,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ## Step by Step Introduction to Visual Recognition in the IBM Cloud
 
-1. [Watson Visual Recognition in the IBM Cloud. ](https://cloud.ibm.com/catalog/services/visual-recognition). 
+1. [Watson Visual Recognition in the IBM Cloud.](https://cloud.ibm.com/catalog/services/visual-recognition). 
    Click on "Create" in bottom right corner to create an instance of the Watson Visual Recognition in the IBM Cloud
 1. [Your resources in the IBM Cloud, including Watson Visual Recognition](https://cloud.ibm.com/resources)
    Click on your "Visual Recognition Service"
