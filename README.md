@@ -69,7 +69,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 # [Watson Starter Kits](https://cloud.ibm.com/developer/watson/starter-kits)
 
-### IBM Code Patterns
+### IBM Code Patterns. 
 
 1. [A beginner’s guide to setting up a visual recognition service](https://developer.ibm.com/articles/a-beginners-guide-to-set-up-a-visual-recognition-service/)
 1. [Identify Cities from Space](https://developer.ibm.com/patterns/identify-cities-from-space-using-watson-visual-recognition/)
