@@ -60,9 +60,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 # Integrating other Watson cognitive services in your applications
 
 1.[All AI services in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
-1.[Speech to text](https://www.ibm.com/watson/services/speech-to-text/)
+1.[Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 1.[Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
-
 
 # [Watson Starter Kits](https://cloud.ibm.com/developer/watson/starter-kits)
 
@@ -73,7 +72,4 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [Classify Vehicle Damage Images](https://developer.ibm.com/patterns/classify-vehicle-damage-images/)
 1. [Optimize your visual recognition classification](https://developer.ibm.com/patterns/optimize-visual-recognition-classification/)
 1. [Create a real-time object detection app using Watson Machine Learning](https://developer.ibm.com/patterns/create-a-real-time-object-detection-app-using-watson-machine-learning/)
-
-
-
 
