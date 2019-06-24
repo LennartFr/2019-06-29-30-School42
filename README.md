@@ -64,6 +64,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ## Deploying the custom visual model on IBM Cloud and then use in your applications 
 
+[YouTube: IBM Watson Studio: Get Started With Visual Recognition](https://www.youtube.com/watch?v=o8xxZcmuc2Q)
 
 # Integrating other Watson cognitive services in your applications
 
