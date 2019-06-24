@@ -62,7 +62,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
   [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio)
 
-# Deploying the custom visual model on IBM Cloud and then use in your applications 
+## Deploying the custom visual model on IBM Cloud and then use in your applications 
 
 
 # Integrating other Watson cognitive services in your applications
