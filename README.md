@@ -41,7 +41,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
    Click on your "Visual Recognition Service". This is the Visual Recognition Service you just created.
 1. Click on "Manage" in the upper left hand corner
 1. Click on the "Show Credentials" to the right in the picture below to make it visible and then click on the "copy API 
-   key icon: for later use.
+   key icon: for later use. To invoke the Visual Recognition service we will need the API key.
    
    <img src="Visual_Recognition.png" height="400" width="600">
 
