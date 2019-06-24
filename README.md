@@ -53,7 +53,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [This getting started tutorial guides you through how to use some built-in models in IBM Watson Visual Recognition to classify an image and then detect faces in an image.](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial)
 
 # Create a Custom image classifier with Watson Visual Recognition 
-  
+
+   
+1. [Createe Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
   [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio)
 
 # Deploying the custom visual model on IBM Cloud and then use in your applications 
