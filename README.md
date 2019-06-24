@@ -38,7 +38,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
    Click on "Create" in bottom right corner to create an instance of the Watson Visual Recognition in the IBM Cloud
 1. Click on the hamburger menu at the uppler left hand corner in the window and select 
 [Resource List](https://cloud.ibm.com/resources)
-1  Click on your "Visual Recognition Service" in the Services Section. This is the Visual Recognition Service you just created.
+1. Click on your "Visual Recognition Service" in the Services Section. This is the Visual Recognition Service you just created.
 1. Click on "Manage" in the upper left hand corner
 1. Click on the "Show Credentials" to the right in the picture below to make it visible and then click on the "copy API 
    key icon: for later use. To invoke the Visual Recognition service we will need the API key.
