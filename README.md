@@ -10,7 +10,6 @@
 
 [Call for code challenge 2019](https://callforcode.org/challenge/)
 
-
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
 
 1. custom image classifier with Watson Visual Recognition 
@@ -41,8 +40,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. [Select "Your Resources in the IBM Cloud"](https://cloud.ibm.com/resources)
    Click on your "Visual Recognition Service"
 1. Click on "Manage" in the upper left hand corner
-1. Click on the "Show Credentials" to the right in the picture below to make it visible and then click on "save API key" 
-   for later use.
+1. Click on the "Show Credentials" to the right in the picture below to make it visible and then click on the "copy API 
+   key icon: for later use.
    
    <img src="Visual_Recognition.png" height="400" width="600">
 
