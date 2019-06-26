@@ -42,7 +42,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
    
    <img src="Visual_Recognition.png" height="400" width="600">
 
-1. [Click "API Reference"](https://cloud.ibm.com/apidocs/visual-recognition) for a description on how to invoke the Visual Recognition Service from Curl, Go, Java, Node, Python, Ruby, and Swift.
+1. [Click "API Reference", shown in the picture above](https://cloud.ibm.com/apidocs/visual-recognition) for a description on how to invoke the Visual Recognition Service from Curl, Go, Java, Node, Python, Ruby, and Swift.
 
 1. [Click on "Visual Recognition Service"](https://cloud.ibm.com/apidocs/visual-recognition?code=try) for a number of  
     examples of how to invoke the Visual Recognition Service with Curl, Go, Java, Node, Python Ruby and Swift.
