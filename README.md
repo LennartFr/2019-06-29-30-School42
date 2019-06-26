@@ -2,13 +2,13 @@
 
 # URL: [https://bit.ly/2RsMqpk](https://bit.ly/2RsMqpk)
 
-# Call for Code signup link: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
+[White listing:](https://cloud.ibm.com/registration/whitelist)
 
-[Whitelisting:](https://cloud.ibm.com/registration/whitelist)
 
-## Introduction
+<hr size="50" color ="blue">
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-[Call for code challenge 2019](https://callforcode.org/challenge/)
+# 1) Introduction
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. You will learn about: 
 
@@ -18,10 +18,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. integrating other Watson cognitive services in your applications.
 
-<hr size="50" color ="blue">
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# 1) Introduction
+##  Call for Code signup link: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
 
 ## [IBM Cloud](https://cloud.ibm.com/catalog)
 
