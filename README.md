@@ -67,7 +67,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. Click on your visual recognition service in the Resource List
 
 1. In the Visual Recognition service window, click on the blue Launch Watson Studio button. (The same window we see higher up in this tutorial
-1. Before we can create the Watson Studio we have to create an instance of the [Cloud Object Storage(https://cloud.ibm.com/catalog/services/cloud-object-storage) which is where we will stora the images thatwe will analyze.
+1. Before we can create the Watson Studio we have to create an instance of the [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) which is where we will stora the images thatwe will analyze.
 1. Once we have created the Cloud Oject Storage we can create the Watson Studio.
 
 <img src="create_model.png">
