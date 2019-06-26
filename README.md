@@ -58,13 +58,13 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ## 3) Create Visual Recognition Custom Model
 
-1. From the IBM Cloud Catalog, create an instance of [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) That is where we will store the images we will ,...analyze.
+1. From the IBM Cloud Catalog, create an instance of [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) That is where we will store the images we will analyze.
 
 1. Click on the hamburger menu in the upper left had corner the IBM Cloud window
 
 1. Click on the Resource List
 
-1. Click on your visual recognition service in the Resource List
+1. Click on your Visual Recognition Service in the Resource List
 
 1. In the Visual Recognition service window, click on the blue Launch Watson Studio button. (The same window we see higher up in this tutorial
 
