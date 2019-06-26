@@ -32,7 +32,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="models.png">
 
-[Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
+[Create Visual Recognition service](https://cloud.ibm.com/catalog/services/visual-recognition)
 
 [Creating Visual Recognition custom models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html)
 
