@@ -31,7 +31,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ## 2) Step by Step Introduction to Visual Recognition in the IBM Cloud
 
-1. [Select "Watson Visual Recognition service" in the IBM Cloud Catalog(https://cloud.ibm.com/catalog/services/visual-recognition). 
+1. [Select "Watson Visual Recognition service" in the IBM Cloud Catalog](https://cloud.ibm.com/catalog/services/visual-recognition). 
    Click on "Create" in bottom right corner to create an instance of the Watson Visual Recognition in the IBM Cloud
 1. Click on the hamburger menu at the uppler left hand corner in the window and select 
 [Resource List](https://cloud.ibm.com/resources)
