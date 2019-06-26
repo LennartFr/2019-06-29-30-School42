@@ -49,7 +49,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. [This getting started tutorial](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial) guides you through how to use some built-in models in IBM Watson Visual Recognition to classify an image and then detect faces in an image.
 
-1. Working with the Visual Recognition API <img src="/visual_recognitionapi.png">
+1. [Working with the Visual Recognition API](https://cloud.ibm.com/apidocs/visual-recognition?code=try) 
+<img src="/visual_recognitionapi.png">
 
 1. [Visual Recognition Getting Started Tutorial ](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#getting-started-tutorial)
 
