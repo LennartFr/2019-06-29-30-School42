@@ -18,15 +18,15 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. integrating other Watson cognitive services in your applications.
 
-##  Call for Code signup link: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
+###  Call for Code signup link: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
 
-## [IBM Cloud](https://cloud.ibm.com/catalog)
+### [IBM Cloud](https://cloud.ibm.com/catalog)
 
-## [Watson AI services](https://cloud.ibm.com/catalog?category=ai)
+### [Watson AI services](https://cloud.ibm.com/catalog?category=ai)
 
-## [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
+### [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
 
-## Models
+### Models
 
 <img src="models.png">
 
