@@ -4,7 +4,6 @@
 
 [White listing:](https://cloud.ibm.com/registration/whitelist)
 
-
 <hr size="50" color ="blue">
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -26,7 +25,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ### [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
 
-### Models
+### Visual Recognition Models
 
 <img src="models.png">
 
