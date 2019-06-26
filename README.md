@@ -33,10 +33,6 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="models.png">
 
-[Creating Visual Recognition custom models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html)
-
-[Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
-
 ## 2) Step by Step Introduction to Visual Recognition in the IBM Cloud
 
 1. [Select "Watson Visual Recognition service" in the IBM Cloud](https://cloud.ibm.com/catalog/services/visual-recognition). 
@@ -62,10 +58,12 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## 3) Create Visual Recognition Custom Model
-   
+
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
-  [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio)
+1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
+
+1. [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio)
 
 ## 4)  Deploying the custom visual model on IBM Cloud and then use in your applications 
 
