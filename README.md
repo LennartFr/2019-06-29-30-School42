@@ -58,6 +58,16 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ## 3) Create Visual Recognition Custom Model
 
+Click on the hamburger menu in the upper left had corner the IBM Cloud window
+
+Click on the Resource List
+
+Click on your visual recognition service in the Resource List
+
+ In the VisualRecognition service window, click on the blue Launch Watson Studio button. (The same window we see higher up in this tutorial
+
+
+
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
 1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
