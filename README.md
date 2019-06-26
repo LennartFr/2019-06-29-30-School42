@@ -21,6 +21,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 <hr size="50" color ="blue">
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# 1) Introduction
 
 ## [IBM Cloud](https://cloud.ibm.com/catalog)
 
@@ -28,16 +29,15 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ## [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
 
-### Models
+## Models
 
 <img src="models.png">
-
 
 [Creating Visual Recognition custom models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html)
 
 [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
 
-## 1) Step by Step Introduction to Visual Recognition in the IBM Cloud
+## 2) Step by Step Introduction to Visual Recognition in the IBM Cloud
 
 1. [Select "Watson Visual Recognition service" in the IBM Cloud](https://cloud.ibm.com/catalog/services/visual-recognition). 
    Click on "Create" in bottom right corner to create an instance of the Watson Visual Recognition in the IBM Cloud
@@ -61,13 +61,13 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## 2) Create Visual Recognition Custom Model
+## 3) Create Visual Recognition Custom Model
    
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
   [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio)
 
-## 3)  Deploying the custom visual model on IBM Cloud and then use in your applications 
+## 4)  Deploying the custom visual model on IBM Cloud and then use in your applications 
 
 [YouTube: IBM Watson Studio: Get Started With Visual Recognition](https://www.youtube.com/watch?v=o8xxZcmuc2Q)
 
