@@ -66,7 +66,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. In the Visual Recognition service window, click on the blue Launch Watson Studio button. (The same window we see higher up in this tutorial
 
-
+<img src="create_model.png">
 
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
