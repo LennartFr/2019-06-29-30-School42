@@ -32,6 +32,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="models.png">
 
+[Visual Recognition](https://cloud.ibm.com/catalog/services/visual-recognition)
+
 [Creating Visual Recognition custom models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html)
 
 [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
