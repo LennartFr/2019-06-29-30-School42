@@ -49,13 +49,13 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. [This getting started tutorial](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial) guides you through how to use some built-in models in IBM Watson Visual Recognition to classify an image and then detect faces in an image.
 
+1. Working with the Visual Recognition API <img src="/visual_recognitionapi.png">
+
 1. [Visual Recognition Getting Started Tutorial ](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-getting-started-tutorial#getting-started-tutorial)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## 3) Create Visual Recognition Custom Model
-
-1. Working with the Visual Recognition API <img src="/visual_recognitionapi.png">
 
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
@@ -69,9 +69,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="default.custommodel.png">
 
-
 # Integrating other Watson cognitive services in your applications
-
 
 1. [All AI services in the IBM Cloud](https://cloud.ibm.com/catalog?category=ai)
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
