@@ -16,7 +16,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. integrating other Watson cognitive services in your applications.
 
-###  Call for Code signup link: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
+###  Sign up for Call for Code: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
 
 ### [IBM Cloud](https://cloud.ibm.com/catalog)
 
