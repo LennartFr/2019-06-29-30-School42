@@ -1,4 +1,3 @@
-# 2019-06-29-30-School-42
 
 # URL: [https://bit.ly/2RsMqpk](https://bit.ly/2RsMqpk)
 
