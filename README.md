@@ -65,7 +65,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
  <img src="Visual_Recognition.png" height="400" width="600">
 1. In the Visual Recognition service window, click on the blue Launch Watson Studio button. (The same window we see higher up in this tutorial
 
-1. Then click on "Classify Images" as shown in the picture below.
+1. Then click on "Classify Images" and "XXXX" as shown in the picture below.
 
 <img src="create_model.png">
 
