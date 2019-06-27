@@ -72,7 +72,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
 
-1. [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio)
+1. [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio) 
 
 ## 4)  Deploying the custom visual model on IBM Cloud and then use in your applications 
 
