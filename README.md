@@ -12,7 +12,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. custom image classifier with Watson Visual Recognition 
 
-1. deploying the custom visual model on IBM Cloud and then use in your applications 
+1. deploying the custom visual model on IBM Cloud and then use it in your applications 
 
 1. integrating other Watson cognitive services in your applications.
 
