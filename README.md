@@ -80,6 +80,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="default.custommodel.png">
 
+[Kaggle free datasets](https://www.kaggle.com/datasets)
+
+
 # Integrating other Watson cognitive services in your applications
 
 1. [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
