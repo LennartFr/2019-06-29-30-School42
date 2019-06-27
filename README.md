@@ -79,6 +79,15 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio) 
 
+Data to analyze
+
+1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/beagle.zip
+1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/golden-retriever.zip
+1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/husky.zip
+1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/cats.zip
+
+
+
 ## 4)  Deploying the custom visual model on IBM Cloud and then use in your applications 
 
 [YouTube: IBM Watson Studio: Get Started With Visual Recognition](https://www.youtube.com/watch?v=o8xxZcmuc2Q)
