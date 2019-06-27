@@ -62,7 +62,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 1. Click on the Resource List
 
 1. Click on your Visual Recognition Service in the Resource List
-
+ <img src="Visual_Recognition.png" height="400" width="600">
 1. In the Visual Recognition service window, click on the blue Launch Watson Studio button. (The same window we see higher up in this tutorial
 
 
