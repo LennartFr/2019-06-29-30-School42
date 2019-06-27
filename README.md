@@ -22,7 +22,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ### Visual Recognition Models
 
-<img src="https://cloud.ibm.com/catalog/services/cloud-object-storage<img src="models.png">
+<img src="models.png">
 
 ## 2) Step by Step Introduction to Visual Recognition in the IBM Cloud
 
