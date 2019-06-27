@@ -57,7 +57,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. From the IBM Cloud Catalog, create an instance of [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) That is where we will store the images we will analyze.
 
-1. Click on the hamburger menu in the upper left had corner the IBM Cloud window
+1. Click on the hamburger menu in the upper left hand corner the IBM Cloud window
 
 1. Click on the Resource List
 
