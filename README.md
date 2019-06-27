@@ -73,6 +73,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 1. Fill in data and click "Create" in the lower right-hand corner.
 
+<img src="default_custommodel.png">
+
+
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
 1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
