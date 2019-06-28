@@ -1,8 +1,6 @@
 
 # URL: [https://bit.ly/2RsMqpk](https://bit.ly/2RsMqpk)
 
-[White listing:](https://cloud.ibm.com/registration/whitelist)
-
 <hr size="50" color ="blue">
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -124,3 +122,6 @@ Data to analyze
 1. deploying the custom visual model on IBM Cloud and then use it in your applications 
 
 1. integrating other Watson cognitive services in your applications.
+
+
+[White listing:](https://cloud.ibm.com/registration/whitelist)
