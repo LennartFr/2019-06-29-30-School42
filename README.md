@@ -92,6 +92,15 @@ Data to analyze
 1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/cats.zip
 
 
+===============
+
+### Visual Recognition Custom Model API calls
+
+1. [Create a Classifier](https://cloud.ibm.com/apidocs/visual-recognition#create-a-classifier)
+1. [Classify an Image](https://cloud.ibm.com/apidocs/visual-recognition#classify-an-image)
+1. [Classify Images](https://cloud.ibm.com/apidocs/visual-recognition#classify-images)
+
+
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
 1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
