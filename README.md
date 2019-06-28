@@ -97,8 +97,9 @@ Data to analyze
 
 <img src="analyze_results.png">
 
-
 <img src="default.custommodel.png">
+
+<img src="create.model1.png">
 
 [Kaggle free datasets](https://www.kaggle.com/datasets)
 
