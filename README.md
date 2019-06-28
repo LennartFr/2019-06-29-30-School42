@@ -75,6 +75,11 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 <img src="visual.recognition.project.png">
 
+In the next window we will create a class of visual objects such as dogs, which will
+contain nothing but picturs of dogs, and a negative class, which will contain npthing but non-dogs,
+in our case cats. We upload one zip-file of images of dogs and one zip-file of cats and then press on the blue
+"Train Model" button in the upper right hand corner.
+
 1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
 
 1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
