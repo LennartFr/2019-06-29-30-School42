@@ -12,8 +12,6 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ###  Sign up for Call for Code: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
 
-### [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
-
 ### [IBM Cloud](https://cloud.ibm.com/catalog)
 
 ### [Watson AI services](https://cloud.ibm.com/catalog?category=ai)
