@@ -76,15 +76,9 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 <img src="visual.recognition.project.png">
 
 In the next window we will create a class of visual objects such as dogs, which will
-contain nothing but picturs of dogs, and a negative class, which will contain npthing but non-dogs,
+contain nothing but picturs of dogs, and a negative class, which will contain nothing but non-dogs,
 in our case cats. We upload one zip-file of images of dogs and one zip-file of cats and then press on the blue
 "Train Model" button in the upper right hand corner.
-
-1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
-
-1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
-
-1. [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio) 
 
 <img src="create.model1.png">
 
@@ -94,6 +88,13 @@ Data to analyze
 1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/golden-retriever.zip
 1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/husky.zip
 1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/cats.zip
+
+
+1. [Create Visual Recognition Custom Models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-create-model.html) 
+
+1. [Overview: Visual Recognition in Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-sample-training-images.html?audience=wdp&linkInPage=true)
+
+1. [Create Watson Studio service](https://cloud.ibm.com/catalog/services/watson-studio) 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
