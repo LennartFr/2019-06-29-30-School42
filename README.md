@@ -14,7 +14,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ### [IBM Cloud](https://cloud.ibm.com/catalog)
 
-### [Watson AI services](https://cloud.ibm.com/catalog?category=ai)
+### [Watson AI services](https://cloud.ibmInte.com/catalog?category=ai)
 
 ### [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
 
@@ -106,7 +106,6 @@ Data to analyze
 
 <img src="default.custommodel.png">
 
-<img src="create.model1.png">
 
 [Kaggle free datasets](https://www.kaggle.com/datasets)
 
@@ -118,7 +117,7 @@ Data to analyze
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 
 
-# [Watson Starter Kits](https://cloud.ibm.com/developer/watson/starter-kits)
+# [Watson Starter Kits](https://cloud.ibm.com/ developer/watson/starter-kits)
 
 ### IBM Code Patterns. 
 
