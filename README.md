@@ -95,6 +95,9 @@ Data to analyze
 
 [YouTube: IBM Watson Studio: Get Started With Visual Recognition](https://www.youtube.com/watch?v=o8xxZcmuc2Q)
 
+<img src="analyze_results.png">
+
+
 <img src="default.custommodel.png">
 
 [Kaggle free datasets](https://www.kaggle.com/datasets)
