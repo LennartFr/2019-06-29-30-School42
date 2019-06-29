@@ -13,8 +13,6 @@
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. 
 
-###  Sign up for Call for Code: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
-
 ### [IBM Cloud](https://cloud.ibm.com/catalog)
 
 ### [Watson AI services](https://cloud.ibm.com/catalog?category=ai)
@@ -162,5 +160,6 @@ Data to analyze
 
 1. integrating other Watson cognitive services in your applications.
 
+###  Sign up for Call for Code: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
 
 [White listing:](https://cloud.ibm.com/registration/whitelist)
