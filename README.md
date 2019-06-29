@@ -86,8 +86,9 @@ in our case cats. We upload one zip-file of images of dogs and one zip-file of c
 
 To analyze data in our newly created data model,
 we click on the "Default Custom Model" in the topmost Actionbar "Projects", "Dogs", "Default Custom Model"
-and then ;n "Test"
+and then on "Test"
 
+<test img="test.png">
 
 Data to analyze
 
