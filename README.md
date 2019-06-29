@@ -13,8 +13,7 @@
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. 
 
-### [Create a mobile app with visual recognition capabilities. Build an iOS app that connects to Watson Visual Recognition](
-https://developer.ibm.com/patterns/visual-recognition-for-io)
+### [Create a mobile app with visual recognition capabilities.](https://developer.ibm.com/patterns/visual-recognition-for-io)
 
 ### [IBM Cloud](https://cloud.ibm.com/catalog)
 
