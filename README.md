@@ -88,7 +88,7 @@ To analyze data in our newly created data model,
 we click on the "Default Custom Model" in the topmost Actionbar "Projects", "Dogs", "Default Custom Model"
 and then on "Test"
 
-<img= src="test.png">
+<img src="test.png">
 
 Data to analyze
 
