@@ -1,6 +1,9 @@
 
 # URL: [https://bit.ly/2RsMqpk](https://bit.ly/2RsMqpk)
 
+
+# Register for an IBM Cloud account: http://ibm.biz/angelhack-c4c-sv-2019
+
 # Visual Recognition and Watson Services
 
 <hr size="50" color ="blue">
