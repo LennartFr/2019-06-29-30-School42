@@ -4,7 +4,7 @@
 
 # Register for an IBM Cloud account: http://ibm.biz/angelhack-c4c-sv-2019
 
-# Visual Recognition and Watson Services
+# Visual Recognition and Watson AI Services
 
 <hr size="50" color ="blue">
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
