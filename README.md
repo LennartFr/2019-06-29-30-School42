@@ -14,7 +14,7 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ### [IBM Cloud](https://cloud.ibm.com/catalog)
 
-### [Watson AI services](https://cloud.ibmInte.com/catalog?category=ai)
+### [Watson AI services](https://cloud.ibm.com/catalog?category=ai)
 
 ### [Watson Visual Recognition demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
 
