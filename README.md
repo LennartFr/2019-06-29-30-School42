@@ -23,6 +23,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 
 ### [Visual Recognition Service Features](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-overview.html)
 
+### Data for Visual Rcognition: kaggle.com
+
 ### Visual Recognition Models
 
 <img src="models.png">
