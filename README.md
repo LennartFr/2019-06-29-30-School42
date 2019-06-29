@@ -13,8 +13,6 @@
 
 Natural disasters can’t be prevented but we can be better prepared. In this workshop you will learn about solutions to help with natural disasters preparedness/recovery. 
 
-### [Create a mobile app with visual recognition capabilities.](https://developer.ibm.com/patterns/visual-recognition-for-io)
-
 ### [IBM Cloud](https://cloud.ibm.com/catalog)
 
 ### [Watson AI services](https://cloud.ibm.com/catalog?category=ai)
@@ -24,6 +22,8 @@ Natural disasters can’t be prevented but we can be better prepared. In this wo
 ### [Visual Recognition Service Features](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-overview.html)
 
 ### Data for Visual Rcognition: kaggle.com
+
+### [Create a mobile app with visual recognition capabilities.](https://developer.ibm.com/patterns/visual-recognition-for-io)
 
 ### Visual Recognition Models
 
