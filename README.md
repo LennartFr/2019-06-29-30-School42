@@ -84,6 +84,10 @@ in our case cats. We upload one zip-file of images of dogs and one zip-file of c
 
 <img src="create.model1.png">
 
+To analyze data in our newly created data model,
+we click on the "Default Custom Model" in the topmost Actionbar "Projects", "Dogs", "Default Custom Model"
+
+
 Data to analyze
 
 1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/beagle.zip
