@@ -90,6 +90,12 @@ and then on "Test"
 
 <img src="test.png">
 
+We can nown begin to drag ansd drop images for testing our model.
+
+<img src="thresh.png">
+
+For the result of the dragging and. dropping see the next image below.
+
 Data to analyze
 
 1. https://watson-developer-cloud.github.io/doc-tutorial-downloads/visual-recognition/beagle.zip
