@@ -1,7 +1,6 @@
 
 # URL: [https://bit.ly/2RsMqpk](https://bit.ly/2RsMqpk)
 
-
 # Register for an IBM Cloud account: http://ibm.biz/angelhack-c4c-sv-2019
 Click on "Join the 2019 Challing Community" button.  
 
