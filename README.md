@@ -165,3 +165,7 @@ Data to analyze
 ###  Sign up for Call for Code: [https://ibm.biz/Bdz4SD](https://ibm.biz/Bdz4SD)
 
 [White listing:](https://cloud.ibm.com/registration/whitelist)
+
+# Updates from the commandline:
+
+[https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier)
