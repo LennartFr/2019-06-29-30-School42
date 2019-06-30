@@ -166,8 +166,9 @@ Data to analyze
 
 [White listing:](https://cloud.ibm.com/registration/whitelist)
 
-# Updates from the commandline:
+# Updates from the command line:
 
 1. [https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier)
-
+1. [Best practices for custom classifiers in Watson Visual Recognition](https://www.ibm.com/cloud/blog/watson-visual-recognition-training-best-practices)
+1. [](
 1.[Coinmonks](https://medium.com/coinmonks/watson-visual-recognition-custom-models-9cbcc20a6f98)
