@@ -168,4 +168,6 @@ Data to analyze
 
 # Updates from the commandline:
 
-[https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier)
+1. [https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier)
+
+1.[Coinmonks](https://medium.com/coinmonks/watson-visual-recognition-custom-models-9cbcc20a6f98)
