@@ -170,5 +170,5 @@ Data to analyze
 
 1. [https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier](https://cloud.ibm.com/docs/services/visual-recognition?topic=visual-recognition-tutorial-custom-classifier#tutorial-custom-classifier)
 1. [Best practices for custom classifiers in Watson Visual Recognition](https://www.ibm.com/cloud/blog/watson-visual-recognition-training-best-practices)
-1. [](
 1.[Coinmonks](https://medium.com/coinmonks/watson-visual-recognition-custom-models-9cbcc20a6f98)
+1.[Visual Recognition API[(https://cloud.ibm.com/apidocs/visual-recognition) 
